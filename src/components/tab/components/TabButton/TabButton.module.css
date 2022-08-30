@@ -1,0 +1,29 @@
+.tab-list-button {
+  color: inherit;
+  border: none;
+  padding: 0.5em;
+  cursor: pointer;
+  outline: inherit;
+  color: #8398ad;
+  text-align: center;
+  color: #8398ad;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.tab-list-button:focus,
+.tab-list-button:hover,
+.tab-list-button:active {
+  border: 2px solid #bde0fe;
+}
+
+.active {
+  background: #5da2ed;
+  color: #fff;
+}
+
+.hash {
+  color: inherit;
+  text-decoration: inherit;
+  outline: none;
+}

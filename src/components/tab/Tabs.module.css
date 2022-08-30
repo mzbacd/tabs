@@ -1,0 +1,10 @@
+.tabs {
+  display: flex;
+  flex-direction: column;
+}
+
+.tab-panel {
+  background: #fff;
+  margin-bottom: -3px;
+}
+
